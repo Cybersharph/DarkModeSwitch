@@ -1,0 +1,12 @@
+
+/* Site style on dark mode */
+.dark {
+        background-color: #000;
+        color: #fff;
+}
+
+.footer small{
+        position: fixed;
+        bottom: 0px;
+        padding-bottom: 20px;
+}
